@@ -1,0 +1,93 @@
+﻿Location_Code,Field_ID,Depth,Domain,Sample_Type,Lab_Report_Number,,Arsenic,d_As,Nickel,d_Ni,Zinc,d_Zn,C10-C36,d_C10,BaP,d_BaP
+BH01,BH01_0.2,0.2,Natural ,Normal,665531,Arsenic,2,<,6.2,,6.9,,,,,
+BH02,BH02_0.2,0.2,Natural ,Normal,665531,Arsenic,7,,14,,8.9,,,,,
+BH03,BH03_0.2,0.2,Natural ,Normal,665531,Arsenic,10,,25,,12,,,,,
+BH03,BH04A_0.2,0.2,Natural ,Normal,665531,Arsenic,2.6,,77,,29,,50,<,0.5,<
+BH05,BH05_0.2,0.2,Natural ,Normal,665531,Arsenic,7.1,,40,,25,,50,<,0.5,<
+BH07,BH07_0.2,0.2,Natural ,Normal,665531,Arsenic,77,,17,,44,,50,<,0.5,<
+BH07,BH07_0.3,0.3,Natural ,Normal,665531,Arsenic,13,,17,,9.2,,,,,
+BH09,BH09_0.2,0.2,Natural ,Normal,665531,Arsenic,96,,26,,57,,,,,
+BH09,BH10_0.5,0.5,Natural ,Normal,665531,Arsenic,4.2,,29,,12,,,,,
+BH09,BH11_0.4,0.4,Natural ,Normal,665531,Arsenic,11,,17,,8.4,,,,,
+BH12,BH12_0.2,0.2,Natural ,Normal,665531,Arsenic,17,,33,,54,,50,<,0.5,<
+BH12,BH12_0.5,0.5,Natural ,Normal,665531,Arsenic,8.3,,29,,19,,,,,
+BH12,BH13_0.4,0.4,Natural ,Normal,665531,Arsenic,6.5,,16,,15,,,,,
+BH12,BH15_0.5,0.5,Natural ,Normal,665531,Arsenic,7.3,,49,,67,,,,,
+BH12,BH17_0.4,0.4,Natural ,Normal,665531,Arsenic,2.3,,57,,24,,,,,
+BH12,BH18_0.5,0.5,Natural ,Normal,665531,Arsenic,4.9,,17,,11,,,,,
+BH12,BH19_0.6,0.6,Natural ,Normal,665531,Arsenic,23,,55,,120,,,,,
+BH102-0.5,BH102-0.5,0.5,Natural ,Normal,EM2216176,Arsenic,5,<,6,,5,<,50,<,0.5,<
+BH104-1.0,BH104-1.0,1,Natural ,Normal,EM2216176,Arsenic,5,<,20,,7,,50,<,0.5,<
+BH105-0.8,BH105-0.8,0.8,Natural ,Normal,EM2216176,Arsenic,42,,24,,20,,50,<,0.5,<
+GW04,GW04_0.4-0.5,0.45,Natural ,Normal,1159928,Arsenic,4.1,,24,,9.6,,50,<,0.5,<
+GW04,GW04_1.9-2.0,1.95,Natural ,Normal,1159928,Arsenic,9.5,,15,,6.4,,50,<,0.5,<
+GW04,GW05_0.7-0.8,0.75,Natural ,Normal,1159928,Arsenic,6.9,,34,,12,,50,<,0.5,<
+GW06,GW06_2.0-2.1,2.05,Natural ,Normal,1159928,Arsenic,3.2,,8.4,,5,<,50,<,0.5,<
+GW08,GW08_0.9-1.0,0.95,Natural ,Normal,1159928,Arsenic,13,,8.7,,5.4,,50,<,0.5,<
+GW09,GW09_0.4-0.5,0.45,Natural ,Normal,1159928,Arsenic,2,<,5,<,5,<,50,<,0.5,<
+GW09,GW09_0.9-1.0,0.95,Natural ,Normal,1159928,Arsenic,2,<,12,,5.3,,50,<,0.5,<
+GW10,GW10_0.9-1.0,0.95,Natural ,Normal,1159928,Arsenic,2.3,,40,,17,,50,<,0.5,<
+GW10,QC01,0.9,Natural ,Field_D,1162412,Arsenic,9,,11,,15,,50,<,0.5,<
+MW02_B,MW02_B_0.9-1.0,0.95,Natural ,Normal,1159928,Arsenic,3.1,,47,,16,,50,<,0.5,<
+MW03-1.0,MW03-1.0,1,Natural ,Normal,EM2216748,Arsenic,5,<,12,,16,,50,<,0.5,<
+MW03-1.0,TBH01_0.5,0.5,Natural ,Normal,665531,Arsenic,4.1,,17,,13,,,,,
+MW03-1.0,TBH02_0.5,0.5,Natural ,Normal,665531,Arsenic,6.4,,53,,29,,50,<,0.5,<
+TBH06,TBH06_0.2,0.2,Natural ,Normal,665531,Arsenic,2.7,,10,,180,,990,,0.5,<
+TBH07,TBH07_0.2,0.2,Natural ,Normal,665531,Arsenic,6.3,,16,,13,,50,<,0.5,<
+TBH08,TBH08_0.2,0.2,Natural ,Normal,665531,Arsenic,11,,27,,12,,50,<,0.5,<
+TBH08,TBH09_0.5,0.5,Natural ,Normal,665531,Arsenic,4.3,,48,,26,,,,,
+TP01,TP01-0.1,0.1,Reworked Natural ,Normal,1149272,Arsenic,8.6,,8.8,,7.7,,50,<,0.5,<
+TP02,TP02-0.1,0.1,Reworked Natural ,Normal,1149272,Arsenic,8.1,,20,,12,,50,<,0.5,<
+TP03,TP03-0.1,0.1,Reworked Natural ,Normal,1149272,Arsenic,4,,11,,53,,50,<,0.5,<
+TP04,TP04-0.1,0.1,Reworked Natural ,Normal,1149272,Arsenic,13,,14,,50,,50,<,0.5,<
+TP06,TP06_0.1,0.1,Reworked Natural ,Normal,1152389,Arsenic,10,,7.4,,8.6,,50,<,0.5,<
+TP07,TP07-0.1,0.1,Reworked Natural ,Normal,1149272,Arsenic,9,,11,,33,,50,<,0.5,<
+TP08,TP08_0.1,0.1,Reworked Natural ,Normal,1149820,Arsenic,6.3,,10,,8,,50,<,0.5,<
+TP09,TP09_0.1,0.1,Reworked Natural ,Normal,1149820,Arsenic,5.4,,12,,27,,56,,0.5,<
+TP11,TP11-0.1,0.1,Reworked Natural ,Normal,1149272,Arsenic,9.8,,8.7,,9.9,,50,<,0.5,<
+TP12,TP12_0.1,0.1,Reworked Natural ,Normal,1149820,Arsenic,5.7,,6.4,,5,<,50,<,0.5,<
+TP13,TP13_0.1,0.1,Reworked Natural ,Normal,1149820,Arsenic,4.3,,10,,61,,50,<,0.5,<
+TP14,TP14_0.1,0.1,Reworked Natural ,Normal,1149820,Arsenic,6.1,,22,,21,,50,<,0.5,<
+TP16,TP16-0.1,0.1,Reworked Natural ,Normal,1149272,Arsenic,9.6,,7.6,,44,,50,<,0.5,<
+TP17,TP17_0.1,0.1,Reworked Natural ,Normal,1149820,Arsenic,12,,7.5,,5.2,,50,<,0.5,<
+TP18,TP18_0.1,0.1,Reworked Natural ,Normal,1149820,Arsenic,13,,18,,42,,50,<,0.5,<
+TP21,TP21_0.1,0.1,Reworked Natural,Normal,1150641,Arsenic,74,,12,,19,,50,<,0.5,<
+TP22,TP22_0.1,0.1,Reworked Natural,Normal,1150641,Arsenic,5.8,,5.8,,15,,50,<,0.5,<
+TP22,TP23_1.0,1,Natural,Normal,1155406,Arsenic,17,,20,,9.5,,50,<,0.5,<
+TP22,TP24_0.5,0.5,Natural ,Normal,1155406,Arsenic,2,<,6.4,,6.2,,50,<,0.5,<
+TP26,TP26_0.1,0.1,Reworked Natural,Normal,1150641,Arsenic,15,,43,,33,,55,,0.5,<
+TP26,TP26_0.4-0.5,0.45,Natural ,Normal,1155408,Arsenic,2.8,,26,,9.8,,50,<,0.5,<
+TP26,TP26_0.9-1.0,0.9 - 1,Natural ,Normal,1155408,Arsenic,2,<,28,,9.1,,50,<,0.5,<
+TP27,TP27_0.1,0.1,Reworked Natural,Normal,1150641,Arsenic,2.7,,5,<,13,,50,<,0.5,<
+TP28,TP28_0.1,0.1,Reworked Natural,Normal,1150641,Arsenic,23,,18,,72,,50,<,0.5,<
+TP31,TP31_0.1,0.1,Reworked Natural ,Normal,1152389,Arsenic,97,,18,,34,,50,<,0.5,<
+TP31,TP34_0.4-0.5,0.45,Natural ,Normal,1155408,Arsenic,15,,30,,11,,50,<,0.5,<
+TP31,TP34_0.9-1.0,0.9 - 1,Natural ,Normal,1155408,Arsenic,2.9,,22,,10,,50,<,0.5,<
+TP31,TP35_0.4-0.5,0.45,Natural ,Normal,1155408,Arsenic,4.2,,41,,15,,50,<,0.5,<
+TP31,TP35_0.9-1.0,0.9 - 1,Natural ,Normal,1155408,Arsenic,2,<,15,,5.5,,50,<,0.5,<
+TP36,TP36_0.1,0.1,Reworked Natural ,Normal,1152389,Arsenic,450,,10,,52,,50,<,0.5,<
+TP41,TP41_0.1,0.1,Reworked Natural ,Normal,1152389,Arsenic,160,,9.1,,22,,50,<,0.5,<
+TP41,TP42_0.5,0.5,Natural ,Normal,1152389,Arsenic,3.9,,43,,17,,50,<,0.5,<
+TP41,TP48_0.5,0.5,Natural ,Normal,1157266,Arsenic,9.1,,41,,14,,50,<,0.5,<
+TP41,TP48_1.0,1,Natural ,Normal,1157266,Arsenic,2.8,,16,,7.8,,50,<,0.5,<
+TP51,TP51_0.1,0.1,Reworked Natural ,Normal,1152389,Arsenic,48,,46,,76,,65,,0.5,<
+TP51,TP51_0.5,0.5,Natural ,Normal,1157266,Arsenic,3.5,,73,,17,,50,<,0.5,<
+TP51,TP51_1.0,1,Natural ,Normal,1157266,Arsenic,2.4,,83,,17,,50,<,0.5,<
+TP51,TP54_1.0,1,Natural ,Normal,1152389,Arsenic,4.8,,26,,10,,50,<,0.5,<
+TP56,TP56_0.15,0.15,Reworked Natural ,Normal,1152389,Arsenic,8.9,,6.2,,12,,50,<,0.5,<
+TP56,TP61_0.5,0.5,Natural,Normal,1157266,Arsenic,69,,13,,10,,50,<,0.5,<
+TP56,TP63_0.7,0.7,Natural ,Normal,1152610,Arsenic,52,,30,,17,,50,<,0.5,<
+TP56,TP71_0.5,0.5,Natural,Normal,1158330,Arsenic,59,,21,,17,,50,<,0.5,<
+TP56,TP71_1.0,1,Natural,Normal,1153308,Arsenic,280,,21,,23,,130,,0.5,<
+TP75,TP75_0.5,0.5,Natural,Normal,1158330,Arsenic,12,,40,,15,,50,<,0.5,<
+TP75,TP75_1.0,1,Natural,Normal,1158330,Arsenic,2,<,50,,22,,50,<,0.5,<
+TP75,TP81_1.0,1,Natural,Normal,1153308,Arsenic,6.5,,90,,26,,50,<,0.5,<
+TP82,TP82_0.5,0.5,Natural,Normal,1157266,Arsenic,8,,9.7,,5.1,,50,<,0.5,<
+TP82,TP82_1.0,1,Natural,Normal,1157266,Arsenic,2,<,44,,14,,50,<,0.5,<
+TP84,TP84_0.5,0.5,Natural,Normal,1157266,Arsenic,7.9,,18,,9.4,,50,<,0.5,<
+TP84,TP84_1.0,1,Natural,Normal,1157266,Arsenic,16,,25,,7.9,,50,<,0.5,<
+TP91,TP91_0.1,0.1,"Reworked Natural	",Normal,1152389,Arsenic,21,,40,,50,,177,,0.5,<
+TP91,TP91_0.5,0.5,Natural,Normal,1157266,Arsenic,15,,18,,34,,50,<,0.5,<
+TP91,TP91_1.0,1,Natural,Normal,1157266,Arsenic,5.2,,23,,11,,50,<,0.5,<
+TP91,TP92_0.5,0.5,Natural ,Normal,1155406,Arsenic,2,<,6.8,,5,<,50,<,0.5,<
+,,,,,,Nickel,,,,,,,,,,

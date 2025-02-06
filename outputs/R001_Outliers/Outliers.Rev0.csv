@@ -1,0 +1,11 @@
+Domain,ChemName,min,Q1,median,Q3,max
+Fill,Arsenic,1,2.5,6,12,660
+Fill,BaP,0,0,0,0,35
+Fill,C10.C36,25,25,25,25,2729
+Fill,Nickel,2,2.5,13,27,170
+Fill,Zinc,2.5,7,21,47,350
+Natural ,Arsenic,1,2.625,6.5,13,450
+Natural ,BaP,0,0,0,0,4
+Natural ,C10.C36,25,25,25,25,990
+Natural ,Nickel,2.5,11,20,32,90
+Natural ,Zinc,2.5,9,14.5,25.75,180

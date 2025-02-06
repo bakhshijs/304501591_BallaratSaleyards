@@ -1,0 +1,235 @@
+﻿Location_Code,Field_ID,Depth,d,Domain,Sample_Type,Lab_Report_Number,Arsenic,Nickel,Zinc,C10-C36,BaP
+BH01,BH01_0.2,0.2,Natural ,Natural ,Normal,665531,<2,6.2,6.9,,
+BH02,BH02_0.2,0.2,Natural ,Natural ,Normal,665531,7,14,8.9,,
+BH03,BH03_0.2,0.2,Natural ,Natural ,Normal,665531,10,25,12,,
+BH03,BH04A_0.2,0.2,Natural ,Natural ,Normal,665531,2.6,77,29,<50,<0.5
+BH05,BH05_0.2,0.2,Natural ,Natural ,Normal,665531,7.1,40,25,<50,<0.5
+BH07,BH07_0.2,0.2,Natural ,Natural ,Normal,665531,77,17,44,<50,<0.5
+BH07,BH07_0.3,0.3,Natural ,Natural ,Normal,665531,13,17,9.2,,
+BH09,BH09_0.2,0.2,Natural ,Natural ,Normal,665531,96,26,57,,
+BH09,BH10_0.5,0.5,Natural ,Natural ,Normal,665531,4.2,29,12,,
+BH09,BH11_0.4,0.4,Natural ,Natural ,Normal,665531,11,17,8.4,,
+BH12,BH12_0.2,0.2,Natural ,Natural ,Normal,665531,17,33,54,<50,<0.5
+BH12,BH12_0.5,0.5,Natural ,Natural ,Normal,665531,8.3,29,19,,
+BH12,BH13_0.4,0.4,Natural ,Natural ,Normal,665531,6.5,16,15,,
+BH12,BH15_0.5,0.5,Natural ,Natural ,Normal,665531,7.3,49,67,,
+BH12,BH17_0.4,0.4,Natural ,Natural ,Normal,665531,2.3,57,24,,
+BH12,BH18_0.5,0.5,Natural ,Natural ,Normal,665531,4.9,17,11,,
+BH12,BH19_0.6,0.6,Natural ,Natural ,Normal,665531,23,55,120,,
+BH102-0.5,BH102-0.5,0.5,Natural ,Natural ,Normal,EM2216176,<5,6,<5,<50,<0.5
+BH104-1.0,BH104-1.0,1,Natural ,Natural ,Normal,EM2216176,<5,20,7,<50,<0.5
+BH105-0.8,BH105-0.8,0.8,Natural ,Natural ,Normal,EM2216176,42,24,20,<50,<0.5
+GW04,GW04_0.4-0.5,0.45,Natural ,Natural ,Normal,1159928,4.1,24,9.6,<50,<0.5
+GW04,GW04_1.9-2.0,1.95,Natural ,Natural ,Normal,1159928,9.5,15,6.4,<50,<0.5
+GW04,GW05_0.7-0.8,0.75,Natural ,Natural ,Normal,1159928,6.9,34,12,<50,<0.5
+GW06,GW06_2.0-2.1,2.05,Natural ,Natural ,Normal,1159928,3.2,8.4,<5,<50,<0.5
+GW08,GW08_0.9-1.0,0.95,Natural ,Natural ,Normal,1159928,13,8.7,5.4,<50,<0.5
+GW09,GW09_0.4-0.5,0.45,Natural ,Natural ,Normal,1159928,<2,<5,<5,<50,<0.5
+GW09,GW09_0.9-1.0,0.95,Natural ,Natural ,Normal,1159928,<2,12,5.3,<50,<0.5
+GW10,GW10_0.9-1.0,0.95,Natural ,Natural ,Normal,1159928,2.3,40,17,<50,<0.5
+GW10,QC01,0.9,Natural ,Natural ,Field_D,1162412,9,11,15,<50,<0.5
+MW02_B,MW02_B_0.9-1.0,0.95,Natural ,Natural ,Normal,1159928,3.1,47,16,<50,<0.5
+MW03-1.0,MW03-1.0,1,Natural ,Natural ,Normal,EM2216748,<5,12,16,<50,<0.5
+MW03-1.0,TBH01_0.5,0.5,Natural ,Natural ,Normal,665531,4.1,17,13,,
+MW03-1.0,TBH02_0.5,0.5,Natural ,Natural ,Normal,665531,6.4,53,29,<50,<0.5
+TBH06,TBH06_0.2,0.2,Natural ,Natural ,Normal,665531,2.7,10,180,990,<0.5
+TBH07,TBH07_0.2,0.2,Natural ,Natural ,Normal,665531,6.3,16,13,<50,<0.5
+TBH08,TBH08_0.2,0.2,Natural ,Natural ,Normal,665531,11,27,12,<50,<0.5
+TBH08,TBH09_0.5,0.5,Natural ,Natural ,Normal,665531,4.3,48,26,,
+TP01,TP01-0.1,0.1,Reworked Natural ,Natural ,Normal,1149272,8.6,8.8,7.7,<50,<0.5
+TP02,TP02-0.1,0.1,Reworked Natural ,Natural ,Normal,1149272,8.1,20,12,<50,<0.5
+TP03,TP03-0.1,0.1,Reworked Natural ,Natural ,Normal,1149272,4,11,53,<50,<0.5
+TP04,TP04-0.1,0.1,Reworked Natural ,Natural ,Normal,1149272,13,14,50,<50,<0.5
+TP06,TP06_0.1,0.1,Reworked Natural ,Natural ,Normal,1152389,10,7.4,8.6,<50,<0.5
+TP07,TP07-0.1,0.1,Reworked Natural ,Natural ,Normal,1149272,9,11,33,<50,<0.5
+TP08,TP08_0.1,0.1,Reworked Natural ,Natural ,Normal,1149820,6.3,10,8,<50,<0.5
+TP09,TP09_0.1,0.1,Reworked Natural ,Natural ,Normal,1149820,5.4,12,27,56,<0.5
+TP11,TP11-0.1,0.1,Reworked Natural ,Natural ,Normal,1149272,9.8,8.7,9.9,<50,<0.5
+TP12,TP12_0.1,0.1,Reworked Natural ,Natural ,Normal,1149820,5.7,6.4,<5,<50,<0.5
+TP13,TP13_0.1,0.1,Reworked Natural ,Natural ,Normal,1149820,4.3,10,61,<50,<0.5
+TP14,TP14_0.1,0.1,Reworked Natural ,Natural ,Normal,1149820,6.1,22,21,<50,<0.5
+TP16,TP16-0.1,0.1,Reworked Natural ,Natural ,Normal,1149272,9.6,7.6,44,<50,<0.5
+TP17,TP17_0.1,0.1,Reworked Natural ,Natural ,Normal,1149820,12,7.5,5.2,<50,<0.5
+TP18,TP18_0.1,0.1,Reworked Natural ,Natural ,Normal,1149820,13,18,42,<50,<0.5
+TP21,TP21_0.1,0.1,Reworked Natural,Natural ,Normal,1150641,74,12,19,<50,<0.5
+TP22,TP22_0.1,0.1,Reworked Natural,Natural ,Normal,1150641,5.8,5.8,15,<50,<0.5
+TP22,TP23_1.0,1,Natural,Natural ,Normal,1155406,17,20,9.5,<50,<0.5
+TP22,TP24_0.5,0.5,Natural ,Natural ,Normal,1155406,<2,6.4,6.2,<50,<0.5
+TP26,TP26_0.1,0.1,Reworked Natural,Natural ,Normal,1150641,15,43,33,55,<0.5
+TP26,TP26_0.4-0.5,0.45,Natural ,Natural ,Normal,1155408,2.8,26,9.8,<50,<0.5
+TP26,TP26_0.9-1.0,0.9 - 1,Natural ,Natural ,Normal,1155408,<2,28,9.1,<50,<0.5
+TP27,TP27_0.1,0.1,Reworked Natural,Natural ,Normal,1150641,2.7,<5,13,<50,<0.5
+TP28,TP28_0.1,0.1,Reworked Natural,Natural ,Normal,1150641,23,18,72,<50,<0.5
+TP31,TP31_0.1,0.1,Reworked Natural ,Natural ,Normal,1152389,97,18,34,<50,<0.5
+TP31,TP34_0.4-0.5,0.45,Natural ,Natural ,Normal,1155408,15,30,11,<50,<0.5
+TP31,TP34_0.9-1.0,0.9 - 1,Natural ,Natural ,Normal,1155408,2.9,22,10,<50,<0.5
+TP31,TP35_0.4-0.5,0.45,Natural ,Natural ,Normal,1155408,4.2,41,15,<50,<0.5
+TP31,TP35_0.9-1.0,0.9 - 1,Natural ,Natural ,Normal,1155408,<2,15,5.5,<50,<0.5
+TP36,TP36_0.1,0.1,Reworked Natural ,Natural ,Normal,1152389,450,10,52,<50,<0.5
+TP41,TP41_0.1,0.1,Reworked Natural ,Natural ,Normal,1152389,160,9.1,22,<50,<0.5
+TP41,TP42_0.5,0.5,Natural ,Natural ,Normal,1152389,3.9,43,17,<50,<0.5
+TP41,TP48_0.5,0.5,Natural ,Natural ,Normal,1157266,9.1,41,14,<50,<0.5
+TP41,TP48_1.0,1,Natural ,Natural ,Normal,1157266,2.8,16,7.8,<50,<0.5
+TP51,TP51_0.1,0.1,Reworked Natural ,Natural ,Normal,1152389,48,46,76,65,<0.5
+TP51,TP51_0.5,0.5,Natural ,Natural ,Normal,1157266,3.5,73,17,<50,<0.5
+TP51,TP51_1.0,1,Natural ,Natural ,Normal,1157266,2.4,83,17,<50,<0.5
+TP51,TP54_1.0,1,Natural ,Natural ,Normal,1152389,4.8,26,10,<50,<0.5
+TP56,TP56_0.15,0.15,Reworked Natural ,Natural ,Normal,1152389,8.9,6.2,12,<50,<0.5
+TP56,TP61_0.5,0.5,Natural,Natural ,Normal,1157266,69,13,10,<50,<0.5
+TP56,TP63_0.7,0.7,Natural ,Natural ,Normal,1152610,52,30,17,<50,<0.5
+TP56,TP71_0.5,0.5,Natural,Natural ,Normal,1158330,59,21,17,<50,<0.5
+TP56,TP71_1.0,1,Natural,Natural ,Normal,1153308,280,21,23,130,<0.5
+TP75,TP75_0.5,0.5,Natural,Natural ,Normal,1158330,12,40,15,<50,<0.5
+TP75,TP75_1.0,1,Natural,Natural ,Normal,1158330,<2,50,22,<50,<0.5
+TP75,TP81_1.0,1,Natural,Natural ,Normal,1153308,6.5,90,26,<50,<0.5
+TP82,TP82_0.5,0.5,Natural,Natural ,Normal,1157266,8,9.7,5.1,<50,<0.5
+TP82,TP82_1.0,1,Natural,Natural ,Normal,1157266,<2,44,14,<50,<0.5
+TP84,TP84_0.5,0.5,Natural,Natural ,Normal,1157266,7.9,18,9.4,<50,<0.5
+TP84,TP84_1.0,1,Natural,Natural ,Normal,1157266,16,25,7.9,<50,<0.5
+TP91,TP91_0.1,0.1,"Reworked Natural	",Natural ,Normal,1152389,21,40,50,177,<0.5
+TP91,TP91_0.5,0.5,Natural,Natural ,Normal,1157266,15,18,34,<50,<0.5
+TP91,TP91_1.0,1,Natural,Natural ,Normal,1157266,5.2,23,11,<50,<0.5
+TP91,TP92_0.5,0.5,Natural ,Natural ,Normal,1155406,<2,6.8,<5,<50,<0.5
+TP94,TP94_0.1,0.1,Reworked Natural ,Natural ,Normal,1149820,26,52,56,<50,2.9
+TP94,TP94_0.5,0.5,Natural ,Natural ,Normal,1155406,2.2,11,7.8,<50,<0.5
+TP94,TP96_0.9-1.0,0.95,Natural ,Natural ,Normal,1155408,<2,25,14,<50,<0.5
+TP94,TP97_0.5,0.5,Natural,Natural ,Normal,1158330,18,23,8.7,<50,<0.5
+TP94,TP98_1.0,1,Natural ,Natural ,Normal,1152610,2.6,32,20,80,<0.5
+TP94,TP100_0.5,0.5,Natural,Natural ,Normal,1157266,53,24,19,400,4.5
+TP94,TP100_1.0,1,Natural,Natural ,Normal,1157266,<2,32,8,<50,<0.9
+TP94,TP106_0.62,0.62,Natural ,Natural ,Normal,1155185,,,,,<0.5
+BH04,BH04_0.2,0.2,Fill,Fill,Normal,665531,22,18,37,,
+BH06,BH06_0.1,0.1,Fill,Fill,Normal,665531,<2,120,81,<50,<0.5
+BH06,BH06_0.25,0.25,Fill,Fill,Normal,665531,3.6,25,21,,
+BH08,BH08_0.2,0.2,Fill,Fill,Normal,665531,17,47,18,,
+BH08,BH08_0.5,0.5,Fill,Fill,Normal,666481,,,,,
+BH10,BH10_0.1,0.1,Fill,Fill,Normal,665531,2.2,<5,<5,<50,<0.5
+BH11,BH11_0.2,0.2,Fill,Fill,Normal,665531,<2,8,5,,
+BH13,BH13_0.2,0.2,Fill,Fill,Normal,665531,4.1,8.9,16,<50,<0.5
+BH14,BH14_0.2,0.2,Fill,Fill,Normal,665531,150,20,22,<50,<0.5
+BH15,BH15_0.2,0.2,Fill,Fill,Normal,665531,9.9,12,63,570,8
+BH16,BH16_0.2,0.2,Fill,Fill,Normal,665531,3.2,5.9,24,<50,1
+BH16,BH16_0.5,0.5,Fill,Fill,Normal,665531,26,19,8.4,,
+BH17,BH17_0.2,0.2,Fill,Fill,Normal,665531,41,26,11,,
+BH18,BH18_0.2,0.2,Fill,Fill,Normal,665531,<2,<5,<5,<50,<0.5
+BH19,BH19_0.2,0.2,Fill,Fill,Normal,665531,<2,<5,<5,,
+BH20,BH20_0.2,0.2,Fill,Fill,Normal,665531,4.6,27,27,56,0.5
+BH100-0.2,BH100-0.2,0.2,Fill,Fill,Normal,EM2216176,11,10,11,<50,<0.5
+BH100-0.5,BH100-0.5,0.5,Fill,Fill,Normal,EM2216176,<5,15,7,<50,<0.5
+BH101-0.2,BH101-0.2,0.2,Fill,Fill,Normal,EM2216176,11,13,18,<50,<0.5
+BH102-0.2,BH102-0.2,0.2,Fill,Fill,Normal,EM2216176,10,13,28,<50,0.6
+BH103-0.1,BH103-0.1,0.1,Fill,Fill,Normal,EM2216176,5,53,42,<50,<0.5
+BH104-0.2,BH104-0.2,0.2,Fill,Fill,Normal,EM2216176,<5,3,9,<50,0.6
+BH105-0.2,BH105-0.2,0.2,Fill,Fill,Normal,EM2216176,167,11,23,<50,<0.5
+BH106-0.2,BH106-0.2,0.2,Fill,Fill,Normal,EM2216176,9,8,11,<50,<0.5
+BH107-0.2,BH107-0.2,0.2,Fill,Fill,Normal,EM2216176,262,33,53,<50,<0.5
+BH108-0.2,BH108-0.2,0.2,Fill,Fill,Normal,EM2216176,34,5,26,<50,<0.5
+BH109-0.2,BH109-0.2,0.2,Fill,Fill,Normal,EM2216176,14,7,32,<50,<0.5
+BH110-0.2,BH110-0.2,0.2,Fill,Fill,Normal,EM2216176,<5,4,6,<50,<0.5
+GW05,GW05_0.4-0.5,0.45,Fill,Fill,Normal,1159928,74,23,59,<50,<0.5
+GW07,GW07_0.0-0.1,0.05,Fill,Fill,Normal,1159928,6.3,41,31,<50,<0.5
+GW07,GW07_0.4-0.5,0.45,Fill,Fill,Normal,1159928,5.4,7.4,<5,<50,<0.5
+MW01-0.2,MW01-0.2,0.15,Fill,Fill,Normal,EM2216176,15,23,24,<50,2.3
+MW01_B,MW01_B_0.0-0.1,0.05,Fill,Fill,Normal,1159928,14,28,43,340,3.1
+MW02-0.2,MW02-0.2,0.2,Fill,Fill,Normal,EM2216176,116,27,72,<50,<0.5
+MW03-0.2,MW03-0.2,0.2,Fill,Fill,Normal,EM2216176,<5,31,17,<50,<0.5
+SED-01,SED-01,0.1,Fill,Fill,Normal,1172652,8.3,25,350,780,<0.5
+SED-02,SED-02,0.1,Fill,Fill,Normal,1172652,7.2,25,49,<50,<0.5
+SED-03,SED-03,0.1,Fill,Fill,Normal,1172652,8.9,23,30,<50,<0.5
+SED-04,SED-04,0.1,Fill,Fill,Normal,1172652,3,29,30,<50,<0.5
+SED-05,SED-05,0.1,Fill,Fill,Normal,1172652,3.8,25,120,1050,<0.5
+SED-06,SED-06,0.1,Fill,Fill,Normal,1172652,7.1,24,60,80,<0.5
+SED-07,SED-07,0.1,Fill,Fill,Normal,1172652,9.8,27,46,110,<0.5
+SED-08,SED-08,0.1,Fill,Fill,Normal,1172652,3.6,22,41,130,<0.5
+SED-09,SED-09,0.1,Fill,Fill,Normal,1172652,7.2,22,24,90,<0.5
+SED-10,SED-10,0.1,Fill,Fill,Normal,1172652,6,16,100,150,<0.5
+SED-11,SED-11,0.1,Fill,Fill,Normal,1172652,4.2,18,13,<50,<0.5
+SED-12,SED-12,0.1,Fill,Fill,Normal,1172652,4.4,27,21,73,<0.5
+TBH01,TBH01_0.2,0.2,Fill,Fill,Normal,665531,16,58,34,<50,<0.5
+TBH02,TBH02_0.2,0.2,Fill,Fill,Normal,665531,,,,<50,
+TBH03,TBH03_0.2,0.2,Fill,Fill,Normal,665531,11,20,47,<50,<0.5
+TBH04,TBH04_0.2,0.2,Fill,Fill,Normal,665531,14,55,57,<50,<0.5
+TBH09,TBH09_0.2,0.2,Fill,Fill,Normal,665531,<2,79,74,<50,<0.5
+TBH10,TBH10_0.2,0.2,Fill,Fill,Normal,665531,230,50,65,143,0.5
+TBH10,TBH10_0.5,0.5,Fill,Fill,Normal,665531,79,64,26,,
+TP05,TP05_0.1,0.1,Fill,Fill,Normal,1149820,7.2,59,47,<50,<0.5
+TP10,TP10_0.1,0.1,Fill,Fill,Normal,1149820,3.8,34,26,<50,<0.5
+TP15,TP15_0.1,0.1,Fill,Fill,Normal,1149820,7,27,21,<50,<0.5
+TP19,TP19_0.1,0.1,Fill,Fill,Normal,1149820,8.8,52,85,60,<0.5
+TP20,TP20_0.1,0.1,Fill,Fill,Normal,1149820,5.3,110,97,<50,1
+TP23,TP23_0.1,0.1,Fill,Fill,Normal,1150188,10,34,120,203,0.8
+TP23,TP23_0.5,0.5,Fill,Fill,Normal,1155406,23,11,8.1,<50,<0.5
+TP24,TP24_0.1,0.1,Fill,Fill,Normal,1150188,5.9,49,49,<50,<0.5
+TP25,TP25_0.1,0.1,Fill,Fill,Normal,1149820,2.5,61,48,<50,<0.5
+TP29,TP29_0.1,0.1,Fill,Fill,Normal,1150641,7.8,<5,<5,<50,<0.5
+TP30,TP30_0.1,0.1,Fill,Fill,Normal,1150641,28,64,50,194,3.5
+TP32,TP32_0.1,0.1,Fill,Fill,Normal,1150641,2.1,76,48,<50,<0.5
+TP33,TP33_0.1,0.1,Fill,Fill,Normal,1150641,15,12,9.8,<50,<0.5
+TP34,TP34_0.1,0.1,Fill,Fill,Normal,1150641,<2,<5,<5,<50,<0.5
+TP35,TP35_0.1,0.1,Fill,Fill,Normal,1150641,<2,30,24,1037,11
+TP37,TP37_0.2,0.2,Fill,Fill,Normal,1152389,<2,<5,<5,<50,<0.5
+TP38,TP38_0.2,0.2,Fill,Fill,Normal,1152389,9.1,16,9.4,<50,<0.5
+TP39,TP39_0.2,0.2,Fill,Fill,Normal,1152389,<2,<5,<5,<50,<0.5
+TP40,TP40_0.2,0.2,Fill,Fill,Normal,1152389,11,19,21,<50,<0.5
+TP42,TP42_0.1,0.1,Fill,Fill,Normal,1152389,<2,<5,<5,<50,<0.5
+TP43-0.1,TP43-0.1,0.1,Fill,Fill,Normal,1152389,6.5,<5,<5,<50,<0.5
+TP44-0.25,TP44-0.25,0.25,Fill,Fill,Normal,1152389,<2,<5,<5,<50,<0.5
+TP45,TP45_0.2,0.2,Fill,Fill,Normal,1152389,<2,<5,<5,<50,<0.5
+TP46,TP46_0.1,0.1,Fill,Fill,Normal,1152389,290,64,73,<50,<0.5
+TP47,TP47_0.2,0.2,Fill,Fill,Normal,1152389,<2,<5,<5,<50,<0.5
+TP48,TP48_0.1,0.1,Fill,Fill,Normal,1152389,<2,2,<5,141,1
+TP49,TP49_0.1,0.1,Fill,Fill,Normal,1152389,2.3,<5,<5,<50,<0.5
+TP50,TP50_0.2,0.2,Fill,Fill,Normal,1152389,<2,59,41,<50,<0.5
+TP52,TP52_0.15,0.15,Fill,Fill,Normal,1152389,2.8,<5,7,<50,<0.5
+TP53,TP53_0.15,0.15,Fill,Fill,Normal,1152389,9.3,7.3,12,<50,<0.5
+TP54,TP54_0.1,0.1,Fill,Fill,Normal,1152389,4.9,<5,9.4,<50,<0.5
+TP55,TP55_0.15,0.15,Fill,Fill,Normal,1152389,8.5,<5,11,<50,<0.5
+TP57,TP57_0.15,0.15,Fill,Fill,Normal,1152389,7.5,<5,9.7,<50,<0.5
+TP58,TP58_0.15,0.15,Fill,Fill,Normal,1152389,4.6,<5,12,<50,<0.5
+TP59,TP59_0.15,0.15,Fill,Fill,Normal,1152389,4.6,<5,6.4,<50,<0.5
+TP60,TP60_0.15,0.15,Fill,Fill,Normal,1152389,5.5,<5,9.2,<50,<0.5
+TP61,TP61_0.1,0.1,Fill,Fill,Normal,1152610,660,29,110,290,<0.5
+TP62,TP62_0.15,0.15,Fill,Fill,Normal,1152610,12,<5,5.5,<50,<0.5
+TP62,TP63_0.15,0.15,Fill,Fill,Normal,1152610,4,<5,11,<50,<0.5
+TP64,TP64_0.5,0.5,Fill,Fill,Normal,1152610,<2,9.4,6.7,<50,<0.5
+TP65,TP65_0.15,0.15,Fill,Fill,Normal,1152610,6,5.4,37,<50,<0.5
+TP66,TP66_0.15,0.15,Fill,Fill,Normal,1152610,19,15,89,<50,<0.5
+TP67,TP67_0.15,0.15,Fill,Fill,Normal,1152610,3.3,<5,11,<50,<0.5
+TP68,TP68_0.15,0.15,Fill,Fill,Normal,1152610,<2,<5,<5,<50,<0.5
+TP69,TP69_0.15,0.15,Fill,Fill,Normal,1152610,6.3,8.4,18,<50,<0.5
+TP70,TP70_0.15,0.15,Fill,Fill,Normal,1152610,13,5.6,54,<50,<0.5
+TP71,TP71_0.1,0.1,Fill,Fill,Normal,1153308,400,16,20,<50,<0.5
+TP72,TP72_0.15,0.15,Fill,Fill,Normal,1153465,3.1,2,<5,<50,<0.5
+TP73,TP73_0.15,0.15,Fill,Fill,Normal,1153465,6.3,38,82,<50,<0.5
+TP74,TP74_0.15,0.15,Fill,Fill,Normal,1153465,9.3,7.2,24,<50,<0.5
+TP74,TP75_0.15,0.15,Fill,Fill,Normal,1153465,2.3,<5,7.8,610,7.7
+TP76,TP76_0.15,0.15,Fill,Fill,Normal,1153465,2,<5,<5,<50,<0.5
+TP77,TP77_0.15,0.15,Fill,Fill,Normal,1153465,<2,<5,<5,<50,<0.5
+TP78,TP78_0.15,0.15,Fill,Fill,Normal,1153465,3.3,<5,<5,<50,<0.5
+TP79,TP79_0.15,0.15,Fill,Fill,Normal,1153465,7.3,<5,15,<50,<0.5
+TP80,TP80_0.15,0.15,Fill,Fill,Normal,1153465,8,170,100,<50,<0.5
+TP81,TP81_0.1,0.1,Fill,Fill,Normal,1153308,11,12,29,<50,<0.5
+TP81,TP82_0.15,0.15,Fill,Fill,Normal,1153308,24,17,38,<50,<0.5
+TP83,TP83_0.15,0.15,Fill,Fill,Normal,1153308,4,7,<5,<50,<0.5
+TP83,TP84_0.15,0.15,Fill,Fill,Normal,1153308,42,150,160,226,1.1
+TP85,TP85_0.1,0.1,Fill,Fill,Normal,1153308,3,5.8,5.6,<50,<0.5
+TP86,TP86_0.1,0.1,Fill,Fill,Normal,1153308,<2,10,6.5,<50,<0.5
+TP87,TP87_0.1,0.1,Fill,Fill,Normal,1153308,3.1,<5,<5,<50,<0.5
+TP88,TP88_0.1,0.1,Fill,Fill,Normal,1153308,2.5,<5,<5,<50,<0.5
+TP89,TP89_0.1,0.1,Fill,Fill,Normal,1153308,2.5,<5,<5,<50,<0.5
+TP90,TP90_0.1,0.1,Fill,Fill,Normal,1153308,2.1,<5,<5,<50,<0.5
+TP92,TP92_0.1,0.1,Fill,Fill,Normal,1149820,5.3,33,27,65,<0.5
+TP93,TP93_0.1,0.1,Fill,Fill,Normal,1152389,550,20,42,<50,<0.5
+TP95,TP95_0.1,0.1,Fill,Fill,Normal,1152610,170,18,63,92,<0.5
+TP96,TP96_0.1,0.1,Fill,Fill,Normal,1150641,3.2,14,130,260,<0.5
+TP96,TP96_0.4-0.5,0.45,Fill,Fill,Normal,1155408,9.6,33,85,<50,<0.5
+TP97,TP97_0.1,0.1,Fill,Fill,Normal,1153308,55,17,11,280,<0.5
+TP98,TP98_0.15,0.15,Fill,Fill,Normal,1152610,21,16,6.5,<50,<0.5
+TP99,TP99_0.1,0.1,Fill,Fill,Normal,1153308,<2,11,7.9,<50,<0.5
+TP100,TP100_0.1,0.1,Fill,Fill,Normal,1153308,21,66,76,2729,35
+TP101,TP101_0.1,0.1,Fill,Fill,Normal,1155185,9.6,9.2,60,<50,<0.5
+TP102,TP102_0.13,0.13,Fill,Fill,Normal,1155185,2.5,<5,11,<50,<0.5
+TP103,TP103_0.14,0.14,Fill,Fill,Normal,1155185,<2,<5,7.7,<50,<0.5
+TP104,TP104_0.13,0.13,Fill,Fill,Normal,1155185,9,7,37,125,0.7
+TP105,TP105_0.13,0.13,Fill,Fill,Normal,1155185,11,6.8,20,56,1.7
+TP106,TP106_0.11,0.11,Fill,Fill,Normal,1155185,77,<5,18,<50,<0.5
