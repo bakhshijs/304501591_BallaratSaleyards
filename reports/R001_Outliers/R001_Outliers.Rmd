@@ -47,11 +47,14 @@ schem2 <- schem1%>%
     Q1 = quantile(Conc0.5, probs = .25),
     median = quantile(Conc0.5, probs = .5),
     Q3 = quantile(Conc0.5, probs = .75),
-    max = max(Conc0.5))
+    max = max(Conc0.5),
+    IQR = Q3 - Q1,
+    Upper_Limit = Q3+1.5*IQR,
+    Lower_Limit = Q1-1.5*IQR)
 
 schem2 <- bind_rows(schem2)
 
-write.csv(schem2, "~/R Scripts/304501591_BallaratSaleyards/outputs/R001_Outliers/Outliers.Rev0.csv", row.names = FALSE)
+write.csv(schem2, "~/R Scripts/304501591_BallaratSaleyards/outputs/R001_Outliers/Outliers.Rev1.csv", row.names = FALSE)
 
 p1 <- schem1 %>%
   ggplot(aes(y=Conc0.5, x=Domain, fill = ChemName))+
