@@ -11,6 +11,7 @@ library(tidyverse) # loads: ggplot2, tibble, tidyr, readr, purrr, and dplyr
 library(knitr)
 library(visdat)
 library(ggplot2)
+library(openxlsx)
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
@@ -75,6 +76,73 @@ p1 <- schem1 %>%
 ggsave(filename = "~/R Scripts/304501591_BallaratSaleyards/outputs/R001_Outliers/p1_Outliers.Rev0.jpeg", plot = p1, device = "jpeg", width = 16, height = 12, units = "cm", scale = 1.4) 
     
 
+```
+
+
+```{r}
+
+#fill
+schem0 <- read.csv("~/R Scripts/304501591_BallaratSaleyards/data/R001_Outliers/data_As.csv", header=T, na.strings=c("","NA"))%>%
+  #     pivot_longer(cols=c(8:12),
+  #                names_to= c("ChemName"),
+  #                values_to= 'Concentrations')%>%
+  # na.omit(C)%>%
+  mutate(
+    Prefix = str_extract(As, "^[^0-9]+"),  # Extracts the symbol (non-numeric part)
+    Conc = str_extract(As, "[0-9]+")  )%>%
+    mutate(Conc = as.numeric(Conc)) %>% # Convert number to double
+      mutate(Conc0.5 = case_when( #convert mg/kg to ug/kg
+              Prefix == "<" ~ Conc/2, #half lor
+              is.na(Prefix) ~ Conc*1))
+
+schem1 <- schem0%>%
+  summarise(
+    min = min(Conc0.5),
+    # mean = mean(TDS),
+    Q1 = quantile(Conc0.5, probs = .25),
+    median = quantile(Conc0.5, probs = .5),
+    Q3 = quantile(Conc0.5, probs = .75),
+    max = max(Conc0.5),
+    IQR = Q3 - Q1,
+    Upper_Limit = Q3+1.5*IQR,
+    Lower_Limit = Q1-1.5*IQR)
+
+write.csv(schem1, "~/R Scripts/304501591_BallaratSaleyards/outputs/R001_Outliers/data_As.Rev0.csv", row.names = FALSE)
+
+
+```
+
+
+```{r}
+#natural
+
+#fill
+schem0 <- read.csv("~/R Scripts/304501591_BallaratSaleyards/data/R001_Outliers/data_ADP_Nat_As.csv", header=T, na.strings=c("","NA"))%>%
+  #     pivot_longer(cols=c(8:12),
+  #                names_to= c("ChemName"),
+  #                values_to= 'Concentrations')%>%
+  # na.omit(C)%>%
+  mutate(
+    Prefix = str_extract(Arsenic, "^[^0-9]+"),  # Extracts the symbol (non-numeric part)
+    Conc = str_extract(Arsenic, "[0-9]+")  )%>%
+    mutate(Conc = as.numeric(Conc)) %>% # Convert number to double
+      mutate(Conc0.5 = case_when( #convert mg/kg to ug/kg
+              Prefix == "<" ~ Conc/2, #half lor
+              is.na(Prefix) ~ Conc*1))
+
+schem1 <- schem0%>%
+  summarise(
+    min = min(Conc0.5),
+    # mean = mean(TDS),
+    Q1 = quantile(Conc0.5, probs = .25),
+    median = quantile(Conc0.5, probs = .5),
+    Q3 = quantile(Conc0.5, probs = .75),
+    max = max(Conc0.5),
+    IQR = Q3 - Q1,
+    Upper_Limit = Q3+1.5*IQR,
+    Lower_Limit = Q1-1.5*IQR)
+
+write.csv(schem1, "~/R Scripts/304501591_BallaratSaleyards/outputs/R001_Outliers/data_ADPNat_As.Rev0.csv", row.names = FALSE)
 ```
 
 ## Including Plots
